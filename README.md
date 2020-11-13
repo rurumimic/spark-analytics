@@ -5,6 +5,17 @@
 - Docs: [Latest](https://spark.apache.org/docs/latest/)
   - [2.4.7](https://spark.apache.org/docs/2.4.7/)
 
+## Links
+
+- [Oryx 2](http://oryx.io/): Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
+
+---
+
+## Content
+
+1. [Chapter 2](docs/ch.02.md): Spark, Scala basic
+1. [Chapter 3](docs/ch.03.md): Music Recommender
+
 ---
 
 ## Usage
@@ -18,6 +29,8 @@ curl -O http://mirror.apache-kr.org/apache/spark/spark-2.4.7/spark-2.4.7-bin-had
 ```
 
 ### Environment variables
+
+`env.sh`
 
 ```bash
 export SPARK_HOME=$(pwd)/download/spark-2.4.7-bin-hadoop2.7
@@ -55,8 +68,3 @@ scala> :quit
 ```
 
 ---
-
-## Content
-
-1. [Chapter 2](docs/ch.02.md)
-1. [Chapter 3](docs/ch.03.md)
