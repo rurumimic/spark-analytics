@@ -1,4 +1,4 @@
-# Chapter 02
+# Chapter 2
 
 ## Basic
 

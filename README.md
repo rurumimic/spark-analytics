@@ -59,3 +59,4 @@ scala> :quit
 ## Content
 
 1. [Chapter 2](docs/ch.02.md)
+1. [Chapter 3](docs/ch.03.md)
